@@ -1,0 +1,94 @@
+html, body {
+background-color:#001f21;
+font-size: 12px;
+font-family: Arial;
+color: #a3beac;
+margin: auto;
+max-width: 240px;
+padding: 1px;
+text-align: center;
+scrollbar-3dlight-color: #669174; 
+scrollbar-arrow-color:#000000;
+scrollbar-highlight-color: #b2c8b9;
+scrollbar-face-color: #669174;
+scrollbar-shadow-color:#001f21;
+scrollbar-darkshadow-color:#001f21;
+scrollbar-track-color: #35544e;
+}
+
+a { text-decoration: underline; color: #ffffff; font-size: 12px; }
+a:hover { text-decoration: none; color: #ffffff; font-size: 12px; }
+
+.enter {font-size: 12px; border: 1px outset #4f767e; background: #083437; padding:2px; color: #ffffff; width: 150px; margin: 1px auto}
+
+.but1 {font-size: 12px; border: 1px outset #4f767e; background: #083437; padding:2px; color: #ffffff; width: 144px; margin: 1px auto}
+.but1 a {font-size: 12px;  text-decoration: none; }
+.but1 a:hover{  text-decoration: underline; }
+.but2 {font-size: 12px; border: 1px outset #8c9c9c; background: #4f767e; padding: 2px; color: #ffffff; width: 144px; margin:0 auto; }
+.but2 a{font-size: 12px;   text-decoration: none; }
+.but2 a:hover{  text-decoration: underline; }
+
+.button1 {font-size: 12px; border: 1px outset #88a792; background: #669174; padding:2px; color: #ffffff; margin: 1px auto; text-align:center}
+.button1 a{font-size: 12px;   text-decoration: none; }
+.button1 a:hover{  text-decoration: underline; }
+.button2 {font-size: 12px; border: 1px outset #617475; background: #375051; padding: 2px; color: #ffffff;  margin:0 auto; text-align:center }
+.button2 a{font-size: 12px;   text-decoration: none; }
+.button2 a:hover{  text-decoration: underline; }
+
+
+.but1_1 {font-size: 12px; border: 1px outset #88a792; background: #669174; padding:2px; color: #ffffff; margin: 1px; text-align:center;  width: 80px;}
+.but1_1 a{ font-size: 12px;  text-decoration: none; color: #ffffff }
+.but1_1 a:hover{  text-decoration: underline; }
+.but1_2 {font-size: 12px; border: 1px outset #617475; background: #375051; padding: 2px; color: #ffffff;  margin:1px; text-align:center; width: 80px; }
+.but1_2 a{ font-size: 12px; text-decoration: none; color: #ffffff }
+.but1_2 a:hover{  text-decoration: underline; }
+
+.td1{font-size: 12px;  border-right: 1px solid #4f767e;  }
+
+.b { font-size: 12px; border: 1px outset #4f767e; background: #375051; padding:3px 4px; color: #ffffff; margin: 0px 0px; text-align: left }
+.b2 {font-size: 12px;  border: 1px outset #4f767e; background: #083437; padding:3px 4px; color: #ffffff; margin: 0px 0px; text-align: left }
+.c { font-size: 12px; text-align: center; padding: 3px 2px; color: #ffffff; }
+.c a{font-size: 12px; color: #a3beac; }
+.d {font-size: 12px;  text-decoration: underline; background: #35544e; padding: 2px;  color: #ffffff; text-decoration: none }
+.e { font-size: 12px; text-decoration: underline; background: #669174; padding: 2px; color: #ffffff; text-decoration: none}
+
+.nick  {font-size: 12px;  text-decoration: underline; color: #fcff00 }
+.nick:hover {  text-decoration: none;  color: #fcff00}
+
+.post { color: #a3beac; margin: 3px  0px }
+
+.quest {font-size: 12px;  color: #ffc600 }
+.quest a{ color: #ffc600 }
+
+.users { font-size: 12px; text-align: left }
+.users:hover { background: #375051}
+
+input, textarea, select  {font-size: 12px;  line-height: 140%; border: 1px outset #4f767e; background: #083437; padding: 2px; color: #ffffff }
+input:hover, textarea:hover, select:hover { border: 1px solid #a5bdad }
+input:active, textarea:active, select:active { border: 1px solid #a5bdad }
+
+hr { border: 1px outset #4f767e; background: #375051;height: 2px; margin: 0px 0px }
+
+.img_1 { border: 1px solid #8c9a9b }
+.img_2 { border: 1px solid #ffc300; margin: 6px }
+
+.low_power {font-size: 12px;  margin: 3px; color: #00fff0 }
+.low_power a{ color: #00fff0; text-decoration: underline; }
+
+.menu_x {font-size: 12px;  padding: 3px; border-bottom: 1px solid #375051; text-align: left }
+.menu_y {font-size: 12px;  padding: 3px; border-bottom: 1px solid #375051;  }
+
+.prcnt_blue {font-size: 12px;  border: 1px outset #617475; background: #375051; padding: 1px 5px;  margin:1px; text-align:center; width: 60px; color: #FFFFFF  }
+.prcnt_green {font-size: 12px;  border: 1px outset #5da136; background: #328800; padding: 1px 5px;  margin:1px; text-align:center; width: 60px; color: #FFFFFF  }
+.prcnt_yellow {font-size: 12px;  border: 1px outset #fff452; background: #fff123; padding: 1px 5px;  margin:1px; text-align:center; width: 60px; color: #000000  }
+
+.plus {font-size: 12px; border: 1px outset #4f767e; background: #083437; color: #ffffff; width: 15px; margin: 2px; text-align: center}
+
+td {font-size: 12px }
+
+.groups { text-align:center; color: #FFFFFF; line-height: 1.7  }
+.groups a{ color: #FFFFFF; text-decoration: none; }
+.groups a:hover { font-size: 12px; border: 1px outset #617475; background: #375051; padding:2px 4px; color: #ffffff; margin: 1px; text-align:center;   }
+
+.ch_post { text-align: left; padding: 3px }
+.ch_post:hover { background: #213c3d }
